@@ -17,7 +17,7 @@ class Codechef
             long n=sc.nextLong();
             while(n>0)
             {
-                if(n%10==4)
+                if(n%10==5)
                     count++;
                 n=n/10;
             }

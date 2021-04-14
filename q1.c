@@ -12,7 +12,7 @@ int main(void) {
       while(N>0)
       {
         r=N%10;
-        if(r==4)
+        if(r==5)
             count++;
         N/=10;
       }
